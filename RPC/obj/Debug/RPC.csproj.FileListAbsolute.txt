@@ -1,0 +1,11 @@
+C:\Users\b_q\source\repos\RPC\RPC\bin\Debug\RPC.exe.config
+C:\Users\b_q\source\repos\RPC\RPC\bin\Debug\RPC.exe
+C:\Users\b_q\source\repos\RPC\RPC\bin\Debug\RPC.pdb
+C:\Users\b_q\source\repos\RPC\RPC\obj\Debug\RPC.csprojAssemblyReference.cache
+C:\Users\b_q\source\repos\RPC\RPC\obj\Debug\RPC.Properties.Resources.resources
+C:\Users\b_q\source\repos\RPC\RPC\obj\Debug\RPC.csproj.GenerateResource.cache
+C:\Users\b_q\source\repos\RPC\RPC\obj\Debug\RPC.csproj.CoreCompileInputs.cache
+C:\Users\b_q\source\repos\RPC\RPC\obj\Debug\RPC.exe
+C:\Users\b_q\source\repos\RPC\RPC\obj\Debug\RPC.pdb
+C:\Users\b_q\source\repos\RPC\RPC\obj\Debug\CustomMessageBox.CustomBox.resources
+C:\Users\b_q\source\repos\RPC\RPC\obj\Debug\RPCs.RPC.resources
